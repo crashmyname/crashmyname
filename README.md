@@ -49,8 +49,8 @@ Clinic Apps For Last year student :D
 - [LinkedIn](https://www.linkedin.com/in/fadli-azka-prayogi-523879176/)
 - ![WakaTime](https://wakatime.com/badge/user/8a509498-816c-4792-9f43-dffb2522f6ff.svg)
 
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/crashmyname?style=social)
+![GitHub stars](https://img.shields.io/github/stars/crashmyname?style=social)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crashmyname&show_icons=true)
 
 <!--
