@@ -2,6 +2,7 @@
 # Im Fadli Azka Prayogi ✨
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to work on exciting projects and share knowledge.
+![WakaTime](https://wakatime.com/badge/user/8a509498-816c-4792-9f43-dffb2522f6ff.svg)
 
 <!-- ![Profile Banner](https://laravel.com/img/og-image.jpg) -->
 
