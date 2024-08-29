@@ -1,9 +1,7 @@
 ## Hi there 👋
 # Im Fadli Azka Prayogi ✨
-
+<!--
 Welcome to my GitHub profile! I'm a passionate developer who loves to work on exciting projects and share knowledge.
-
-<!-- ![Profile Banner](https://laravel.com/img/og-image.jpg) -->
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -42,7 +40,7 @@ Clinic Apps For Last year student :D
 - **Languages:** JavaScript, PHP
 - **Frameworks:** Laravel
 - **Tools:** Git, Docker
-
+-->
 ## Contact
 
 - [Email](mailto:fadliazkaprayogi1@gmail.com)
